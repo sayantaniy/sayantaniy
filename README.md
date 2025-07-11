@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yinlin
+### Hi there 👋 I'm Sayantani
 
 🎓 B.Tech CSE (AI & ML) | 2nd Year  
 💡 Passionate about AI, Machine Learning, and Web Development  
