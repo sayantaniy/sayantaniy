@@ -5,30 +5,27 @@
 🔧 Currently building projects in Java, JavaScript, and C  
 🌱 Learning Data Structures, Linear Algebra, and Computer Organization  
 🌐 Exploring full-stack development and open source
+🪄 Interested in Graphic Design and Digital Art
 
 ---
 
 #### 🛠️ Tech Stack
-- **Languages:** Java, C, JavaScript  
+- **Languages Known:** Java, C, JavaScript  
 - **Web:** HTML, CSS, React (Learning), DOM, GitHub Pages  
 - **Tools:** Git & GitHub, VS Code, Figma, Canva
 
 ---
 
 #### 📌 Projects I've worked on
-- 💻 **Amazon Clone Navbar** – HTML & CSS based UI clone   
+- 💻 **Amazon Clone Navbar** – HTML & CSS based UI clone
+- ✌️ **Rock Paper Scissors Game** - JavaScript, CSS, HTML based game 
 - 🧠 *More coming soon...*
 
 ---
 
-#### 📈 GitHub Stats
-
-![Yinlin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
 
 #### 📬 Let's Connect!
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/sayantaniy)
+- LinkedIn: https://www.linkedin.com/in/sayantani-manna-32852a32a/
 - Portfolio: Coming soon...
 
 ---
