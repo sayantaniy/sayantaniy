@@ -17,7 +17,7 @@
 ---
 
 #### 📌 Projects I've worked on
-- 💻 **Amazon Clone Navbar** – HTML & CSS based UI clone
+- 💻 **Amazon Clone** – HTML & CSS based UI clone
 - ✌️ **Rock Paper Scissors Game** - JavaScript, CSS, HTML based game 
 - 🧠 *More coming soon...*
 
