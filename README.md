@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE (AI & ML) | 2nd Year  
 💡 Passionate about AI, Machine Learning, and Web Development  
-🛠️ Currently building projects in Java, JavaScript, and C  
+🛠️ Currently building projects in Java, JavaScript,Python and C  
 🌱 Learning Data Structures, Linear Algebra, and Computer Organization  
 🌐 Exploring full-stack development and open source  
 ✨ Interested in Graphic Design and Digital Art
@@ -10,7 +10,7 @@
 ---
 
 #### 🛠️ Tech Stack
-- **Languages Known:** Java, C, JavaScript  
+- **Languages Known:** Java, C, JavaScript, Python 
 - **Web:** HTML, CSS, React (Learning), DOM, GitHub Pages  
 - **Tools:** Git & GitHub, VS Code, Figma, Canva
 
