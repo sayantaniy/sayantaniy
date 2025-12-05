@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Sayantani
 
 🎓 B.Tech CSE (AI & ML) | 2nd Year  
-💡 Passionate about AI, Machine Learning, and Web Development  
-🛠️ Currently building projects in Java, JavaScript,Python and C  
-🌱 Learning Data Structures, Linear Algebra, and Computer Organization  
+💡 Passionate about Web Development  
+🛠️ Currently building projects in JavaScript 
+🌱 Learning Data Structures 
 🌐 Exploring full-stack development and open source  
 ✨ Interested in Graphic Design and Digital Art
 
