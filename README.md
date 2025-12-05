@@ -3,7 +3,6 @@
 🎓 B.Tech CSE (AI & ML) | 2nd Year  
 💡 Passionate about Web Development  
 🌱 Learning Data Structures 
-  
 ✨ Interested in Graphic Design and Digital Art
 
 ---
