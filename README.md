@@ -2,7 +2,6 @@
 
 🎓 B.Tech CSE (AI & ML) | 2nd Year  
 💡 Passionate about Web Development  
-🛠️ Currently building projects in JavaScript 
 🌱 Learning Data Structures 
 🌐 Exploring full-stack development and open source  
 ✨ Interested in Graphic Design and Digital Art
