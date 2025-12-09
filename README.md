@@ -2,8 +2,6 @@
  
 ![Profile Views](https://komarev.com/ghpvc/?username=sayantaniy&color=ff69b4)
 
-![Top Languages](https://raw.githubusercontent.com/sayantaniy/sayantaniy/master/profile-summary-card-output/2077/2-most-commit-language.svg)
-
 <p align="center">
   <img src="https://media.tenor.com/CeDk6XdCgOUAAAAi/coding-gif.gif" width="230">
 </p>
@@ -22,14 +20,12 @@
 ### 📌 Kanban-Board  
 **Tech:** HTML, CSS, JavaScript  
 A simple and clean Kanban board where tasks can be added, dragged, and organized across columns.  
-*Updated 4 hours ago*
 
 ---
 
 ### 📌 Journal-Web-App  
 **Tech:** HTML, CSS, JavaScript (Local Storage)  
 A personal journal web app that saves your entries in local storage. Smooth UI and lightweight.  
-*Updated 4 hours ago*
 
 ---
 
@@ -57,9 +53,4 @@ A GDrive-like app with signup/login using MongoDB, JWT, bcrypt and cookie-parser
 
 ---
 
-## ✨ Quote I Live By  
-> *"Learning every day. One project at a time."*
 
-<p align="center">
-  <img src="https://media.tenor.com/rtOv4QFHFjwAAAAM/bongo-cat-codes.gif" width="250">
-</p>
