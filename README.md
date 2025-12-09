@@ -10,7 +10,7 @@
 
 ## 🧰 Languages & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,github,git,figma,vscode,react" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,github,git,figma,vscode,mongodb" height="50"/>
 </p>
 
 ---
@@ -51,6 +51,6 @@ A GDrive-like app with signup/login using MongoDB, JWT, bcrypt and cookie-parser
 
 </p>
 
----
+
 
 
