@@ -4,8 +4,6 @@
 </p>
 
 # 🌸 Hi, I'm **Sayantani Manna**!!
-### *who loves to build, learn & create beautiful things*
-
 ---
 
 ### 🧿 Profile Views  
@@ -62,19 +60,6 @@ Classic retro Snake Game built from scratch — smooth movement, collision detec
 A GDrive-like app with signup/login using MongoDB, JWT, bcrypt and cookie-parser. Firebase upload pending.  
 
 ---
-
-### 📌 Anime-Survey  
-**Tech:** HTML, CSS  
-Simple clean survey form UI themed on anime.  
-
----
-
-### 📌 Portfolio  
-**Tech:** HTML  
-Portfolio website showcasing projects and skills.  
-
----
-
 
 ### 🌱 **More Projects Coming Soon…**  
 
