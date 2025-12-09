@@ -14,6 +14,13 @@
 </p>
 
 ---
+## 🌐 Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/sayantani-manna-32852a32a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+</p>
+---
 
 ## 🚀 Projects
 
@@ -33,7 +40,6 @@ A personal journal web app that saves your entries in local storage. Smooth UI a
 **Tech:** JavaScript  
 Classic retro Snake Game built from scratch — smooth movement, collision detection, and scoring system.  
 
----
 
 ### 📌 Drive  
 **Tech:** EJS, Node.js  
@@ -43,13 +49,7 @@ A GDrive-like app with signup/login using MongoDB, JWT, bcrypt and cookie-parser
 
 ---
 
-## 🌐 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/sayantani-manna-32852a32a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-  </a>
 
-</p>
 
 
 
