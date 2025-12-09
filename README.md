@@ -2,9 +2,7 @@
  
 ![Profile Views](https://komarev.com/ghpvc/?username=sayantaniy&color=ff69b4)
 
-![GitHub language stats](https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png)
-
-
+![Top Languages](https://raw.githubusercontent.com/sayantaniy/sayantaniy/master/profile-summary-card-output/2077/2-most-commit-language.svg)
 
 <p align="center">
   <img src="https://media.tenor.com/CeDk6XdCgOUAAAAi/coding-gif.gif" width="230">
