@@ -4,17 +4,9 @@
 </p>
 
 # 🌸 Hi, I'm **Sayantani Manna**!!
----
 
 ### 🧿 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=sayantaniy&color=ff69b4)
-
----
-
-## 🎧 Now Playing (Spotify)
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=&cover_image=true&theme=novatorem&bar_color_cover=true" width="450">
-</p>
 
 ---
 
