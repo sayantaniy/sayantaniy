@@ -2,7 +2,8 @@
  
 ![Profile Views](https://komarev.com/ghpvc/?username=sayantaniy&color=ff69b4)
 
----
+ ![Languages Used](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sayantaniy&layout=donut&langs_count=6&card_width=350)
+
 
 <p align="center">
   <img src="https://media.tenor.com/CeDk6XdCgOUAAAAi/coding-gif.gif" width="230">
@@ -54,9 +55,6 @@ A GDrive-like app with signup/login using MongoDB, JWT, bcrypt and cookie-parser
   </a>
 
 </p>
-
----
-![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantaniy&layout=donut&langs_count=6&card_width=350)
 
 ---
 
