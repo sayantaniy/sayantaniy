@@ -1,4 +1,3 @@
-<!-- 🌸 Cute Header GIF -->
 <p align="center">
   <img src="https://media.tenor.com/2roX3uxz_68AAAAM/cute-kitty.gif" width="180">
 </p>
@@ -61,6 +60,9 @@ A GDrive-like app with signup/login using MongoDB, JWT, bcrypt and cookie-parser
   </a>
 
 </p>
+
+---
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantaniy&layout=compact&langs_count=6&card_width=320)](https://github.com/sayantaniy)
 
 ---
 
