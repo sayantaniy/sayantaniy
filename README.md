@@ -26,24 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats & Analytics  
-
-### 🌙 Dark Mode
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sayantaniy&theme=tokyonight&hide_border=true" height="180" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sayantaniy&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
----
-
-### 🌸 Pastel Theme
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayantaniy&layout=compact&theme=rose_pine&hide_border=true" height="180" />
-</p>
-
----
-
 ## 🧰 Languages & Tools  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,github,git,figma,vscode,react" height="50"/>
