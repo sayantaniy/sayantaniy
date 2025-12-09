@@ -35,13 +35,46 @@
 
 ## 🛠️ Projects I’ve Worked On  
 
-### 🛒 **Amazon Clone**  
-🔸 HTML & CSS based UI clone  
-🔸 Responsive layout, clean structure  
+## 🚀 Projects
 
-### 🎮 **Rock Paper Scissors Game**  
-🔸 JavaScript + DOM manipulation  
-🔸 Fun & interactive UI  
+### 📌 Kanban-Board  
+**Tech:** HTML, CSS, JavaScript  
+A simple and clean Kanban board where tasks can be added, dragged, and organized across columns.  
+*Updated 4 hours ago*
+
+---
+
+### 📌 Journal-Web-App  
+**Tech:** HTML, CSS, JavaScript (Local Storage)  
+A personal journal web app that saves your entries in local storage. Smooth UI and lightweight.  
+*Updated 4 hours ago*
+
+---
+
+### 📌 Snake-Game  
+**Tech:** JavaScript  
+Classic retro Snake Game built from scratch — smooth movement, collision detection, and scoring system.  
+
+---
+
+### 📌 Drive  
+**Tech:** EJS, Node.js  
+A GDrive-like app with signup/login using MongoDB, JWT, bcrypt and cookie-parser. Firebase upload pending.  
+
+---
+
+### 📌 Anime-Survey  
+**Tech:** HTML, CSS  
+Simple clean survey form UI themed on anime.  
+
+---
+
+### 📌 Portfolio  
+**Tech:** HTML  
+Portfolio website showcasing projects and skills.  
+
+---
+
 
 ### 🌱 **More Projects Coming Soon…**  
 
