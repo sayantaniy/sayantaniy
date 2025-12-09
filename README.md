@@ -4,8 +4,7 @@
 </p>
 
 # 🌸 Hi, I'm **Sayantani Manna**!!
-
-### 🧿 Profile Views  
+ 
 ![Profile Views](https://komarev.com/ghpvc/?username=sayantaniy&color=ff69b4)
 
 ---
@@ -22,8 +21,6 @@
 </p>
 
 ---
-
-## 🛠️ Projects I’ve Worked On  
 
 ## 🚀 Projects
 
@@ -62,9 +59,7 @@ A GDrive-like app with signup/login using MongoDB, JWT, bcrypt and cookie-parser
   <a href="https://www.linkedin.com/in/sayantani-manna-32852a32a/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
-  <a href="mailto:sayantanimanna139@gmail.com">
-    <img src="https://www.svgrepo.com/show/353812/gmail.svg" height="50"/>
-  </a>
+
 </p>
 
 ---
