@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAM/cute-kitty.gif" width="180">
-</p>
-
 # 🌸 Hi, I'm **Sayantani Manna**!!
  
 ![Profile Views](https://komarev.com/ghpvc/?username=sayantaniy&color=ff69b4)
@@ -47,8 +43,6 @@ Classic retro Snake Game built from scratch — smooth movement, collision detec
 **Tech:** EJS, Node.js  
 A GDrive-like app with signup/login using MongoDB, JWT, bcrypt and cookie-parser. Firebase upload pending.  
 
----
-
 ### 🌱 **More Projects Coming Soon…**  
 
 ---
@@ -62,7 +56,7 @@ A GDrive-like app with signup/login using MongoDB, JWT, bcrypt and cookie-parser
 </p>
 
 ---
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantaniy&layout=compact&langs_count=6&card_width=320)](https://github.com/sayantaniy)
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantaniy&layout=donut&langs_count=6&card_width=350)
 
 ---
 
