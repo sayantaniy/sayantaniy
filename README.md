@@ -2,7 +2,8 @@
  
 ![Profile Views](https://komarev.com/ghpvc/?username=sayantaniy&color=ff69b4)
 
- ![Languages Used](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sayantaniy&layout=donut&langs_count=6&card_width=350)
+![GitHub language stats](https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png)
+
 
 
 <p align="center">
