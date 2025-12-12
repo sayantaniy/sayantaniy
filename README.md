@@ -48,6 +48,8 @@ Classic retro Snake Game built from scratch — smooth movement, collision detec
 **Tech:** EJS, Node.js  
 A GDrive-like app with signup/login using MongoDB, JWT, bcrypt and cookie-parser. Firebase upload pending.  
 
+---
+
 ### 🌱 **More Projects Coming Soon…**  
 
 
