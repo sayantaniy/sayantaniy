@@ -23,13 +23,15 @@
 </p>
 
 ---
+
+
+<div align="centre">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantaniy&layout=compact&theme=default&hide_border=true)
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayantaniy&show_icons=true&include_all_commits=true&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sayantaniy&theme=default&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayantaniy&show_icons=true&include_all_commits=true&hide_border=true)
 
 </div>
 
