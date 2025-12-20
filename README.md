@@ -10,13 +10,13 @@
 
 ## 🧰 Languages & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,github,git,figma,vscode,nodejs,mongodb,react,express,tailwind,vite,pycharm" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,github,git,figma,vscode,nodejs,mongodb,react,express,tailwind,vite" height="50"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me  
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/sayantani-manna-32852a32a/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
