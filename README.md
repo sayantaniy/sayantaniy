@@ -10,7 +10,7 @@
 
 ## 🧰 Languages & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,github,git,figma,vscode,mongodb" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,github,git,figma,vscode,mongodb,react,express,tailwind,vite" height="50"/>
 </p>
 
 ---
@@ -23,6 +23,18 @@
 </p>
 
 ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantaniy&layout=compact&theme=default&hide_border=true)
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sayantaniy&theme=default&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayantaniy&show_icons=true&include_all_commits=true&hide_border=true)
+
+</div>
+
+---
+
 
 ## 🚀 Projects
 
@@ -49,6 +61,7 @@ Classic retro Snake Game built from scratch — smooth movement, collision detec
 A GDrive-like app with signup/login using MongoDB, JWT, bcrypt and cookie-parser. Firebase upload pending.  
 
 ---
+
 
 ### 🌱 **More Projects Coming Soon…**  
 
