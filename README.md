@@ -1,22 +1,22 @@
-# 🌸 Hi, I'm **Sayantani Manna**!!
+# Hi, I'm **Sayantani**!!
  
 ![Profile Views](https://komarev.com/ghpvc/?username=sayantaniy&color=ff69b4)
 
 <p align="center">
-  <img src="https://media.tenor.com/CeDk6XdCgOUAAAAi/coding-gif.gif" width="230">
+  <img src="https://media1.tenor.com/m/nS7HSTU81tIAAAAC/futurama-script.gif" width="230">
 </p>
 
 ---
 
 ## 🧰 Languages & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,github,git,figma,vscode,mongodb,react,express,tailwind,vite" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,github,git,figma,vscode,nodejs,mongodb,react,express,tailwind,vite,pycharm" height="50"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me  
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/sayantani-manna-32852a32a/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
@@ -25,7 +25,7 @@
 ---
 
 
-<div align="centre">
+<div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantaniy&layout=compact&theme=default&hide_border=true)
 
