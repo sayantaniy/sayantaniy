@@ -27,11 +27,13 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantaniy&layout=compact&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=sayantaniy&show_icons=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayantaniy&show_icons=true&include_all_commits=true&hide_border=true)
+<!-- ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sayantaniy&layout=pie&langs_count=10) -->
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sayantaniy&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=sayantaniy&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sayantaniy&layout=donut&langs_count=8)
 
 </div>
 
