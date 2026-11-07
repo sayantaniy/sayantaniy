@@ -42,6 +42,7 @@
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,vite,python,java,git,github,vscode,figma,docker,nextjs&theme=light&perline=9" width="330" alt="Tech stack including Docker and Next.js"/>
 
 <br/>
+<br/>
 
 `>>  stats  <<`
 
