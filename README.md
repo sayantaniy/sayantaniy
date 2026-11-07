@@ -26,7 +26,7 @@
       </table>
     </td>
     <td>
-      <img src="https://media.tenor.com/PQl4FgiQtegAAAAC/y2k.gif" width="150px" alt="Y2K aesthetic animated graphic">
+      <img src="./assets/y2k.gif" width="150px" alt="Y2K aesthetic animated graphic">
     </td>
   </tr>
 </table>
@@ -39,7 +39,7 @@
 
 `>>  stack  <<`
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,vite,python,java,git,github,vscode,figma,docker,nextjs&theme=light&perline=8" width="330" alt="Tech stack including Docker and Next.js"/>
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,vite,python,java,git,github,vscode,figma,docker,nextjs&theme=light&perline=9" width="330" alt="Tech stack including Docker and Next.js"/>
 
 <br/>
 
