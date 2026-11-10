@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3200&pause=1200&color=FF69B4&center=true&vCenter=true&width=440&height=28&lines=%E2%9C%A7+btech+cse+%E2%80%A2+ai%2Fml+%E2%9C%A7;%E2%99%A1+software+%E2%80%A2+ai+%E2%80%A2+cloud+%E2%99%A1;%E2%98%85+building+full-stack+apps+%E2%98%85" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3200&pause=1200&color=FF69B4&center=true&vCenter=true&width=440&height=28&lines=%E2%9C%A7+btech+cse+%E2%80%A2+ai%2Fml+%E2%9C%A7;%E2%9C%A6+software+%E2%80%A2+ai+%E2%80%A2+cloud+%E2%9C%A6;%E2%98%85+building+full-stack+apps+%E2%98%85" alt="typing"/>
 
 <!--
   GIF SLOT: paste a small cute y2k gif here (~100px), e.g.
@@ -16,7 +16,7 @@
         </tr>
         <tr>
           <td>
-            <code>&gt; hi, i'm sayantani &lt;3</code><br>
+            <code>&gt; hi, i'm sayantani ✦</code><br>
             <code>&gt; 3rd year b.tech cse (ai/ml) student</code><br>
             <code>&gt; into software systems, ai &amp; cloud</code><br>
             <code>&gt; building things that scale +</code><br>
@@ -31,7 +31,7 @@
   </tr>
 </table>
 
-<a href="https://sayantaniy.vercel.app/"><img src="https://img.shields.io/badge/portfolio-visit_%E2%99%A1-ff9ed8?style=flat-square&labelColor=9ff3ff" alt="Portfolio"/></a>
+<a href="https://sayantaniy.vercel.app/"><img src="https://img.shields.io/badge/portfolio-visit_%E2%9C%A6-ff9ed8?style=flat-square&labelColor=9ff3ff" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/sayantani-manna-32852a32a/"><img src="https://img.shields.io/badge/linkedin-connect-c9b6ff?style=flat-square&logo=linkedin&logoColor=white&labelColor=ff9ed8" alt="LinkedIn"/></a>
 <img src="https://komarev.com/ghpvc/?username=sayantaniy&label=visitors&color=9ff3ff&style=flat-square&labelColor=c9b6ff" alt="Visitors"/>
 
